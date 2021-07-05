@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColoredImageToGrayscale:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColoredImageToGrayscale_jar</output-path>
+    <root id="archive" name="ColoredImageToGrayscale.jar">
+      <element id="module-output" name="ColoredImageToGrayscale" />
+    </root>
+  </artifact>
+</component>
